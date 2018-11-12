@@ -12,13 +12,13 @@
 		    "expiredTemplate":"expired_template_en"
 		},
 		"fr": {
-			"notice": "French Version (SALUS) - Cette version de l'application va être supprimée dans <b>:dd: days</b> and <b>:hh: Hours</b>!<br /><br />S'il vous plaît envisager de mettre à jour vers la dernière version",
+			"notice": "Version française (SALUS) - Cette version de l'application va être supprimée dans <b>:dd: days</b> and <b>:hh: Hours</b>!<br /><br />S'il vous plaît envisager de mettre à jour vers la dernière version",
 			"expired": "L'application est déjà expirée!<br />Veuillez mettre à jour l'application vers la dernière version",
 		    "noticeTemplate":"notice_template_en",
 		    "expiredTemplate":"expired_template_en"
 		},
 		"es": {
-			"notice": "ESpanish Version (SALUS) - Esta versión de la aplicación se descartará en <b>:dd: days</b> and <b>:hh: Hours</b>!<br /><br />Por favor considere actualizar a la última versión",
+			"notice": "Version en español (SALUS) - Esta versión de la aplicación se descartará en <b>:dd: days</b> and <b>:hh: Hours</b>!<br /><br />Por favor considere actualizar a la última versión",
 			"expired": "¡La aplicación ya ha expirado!<br />Actualice la aplicación a la última versión",
 		    "noticeTemplate":"notice_template_en",
 		    "expiredTemplate":"expired_template_en"
