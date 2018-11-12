@@ -14,14 +14,14 @@
 		"fr": {
 			"notice": "Version française (SALUS) - Cette version de l'application va être supprimée dans <b>:dd: Journées</b> and <b>:hh: Heures</b>!<br /><br />S'il vous plaît envisager de mettre à jour vers la dernière version",
 			"expired": "L'application est déjà expirée!<br />Veuillez mettre à jour l'application vers la dernière version",
-		    "noticeTemplate":"notice_template_en",
-		    "expiredTemplate":"expired_template_en"
+		    "noticeTemplate":"notice_template_fr",
+		    "expiredTemplate":"expired_template_fr"
 		},
 		"es": {
 			"notice": "Version en español (SALUS) - Esta versión de la aplicación se descartará en <b>:dd: Dias</b> and <b>:hh:Horas</b>!<br /><br />Por favor considere actualizar a la última versión",
 			"expired": "¡La aplicación ya ha expirado!<br />Actualice la aplicación a la última versión",
-		    "noticeTemplate":"notice_template_en",
-		    "expiredTemplate":"expired_template_en"
+		    "noticeTemplate":"notice_template_es",
+		    "expiredTemplate":"expired_template_es"
 		}
 	},
 	"links": {
