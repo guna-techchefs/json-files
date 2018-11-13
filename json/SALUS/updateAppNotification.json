@@ -20,8 +20,8 @@
 		"es": {
 			"notice": "Version en español (SALUS) - Esta versión de la aplicación se descartará en <b>:dd: Dias</b> and <b>:hh:Horas</b>!<br /><br />Por favor considere actualizar a la última versión",
 			"expired": "¡La aplicación ya ha expirado!<br />Actualice la aplicación a la última versión",
-		    "noticeTemplate":"notice_template_es",
-		    "expiredTemplate":"expired_template_es"
+		    "noticeTemplate":"notice_template_en",
+		    "expiredTemplate":"expired_template_en"
 		}
 	},
 	"links": {
