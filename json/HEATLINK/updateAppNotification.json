@@ -1,25 +1,25 @@
 {
 	"version" : 2,
 	"dateinfo" : {
-		"start": "2018-08-22T21:03:19Z",
-		"expiry": "2018-12-31T21:03:19Z"
+		"start": "2018-09-01T21:03:19Z",
+		"expiry": "2018-11-21T21:03:19Z"
 	}, 
 	"messages" : {  
 		"en-us": {
-			"notice": "English Version (Heat Link) - This version of the application is going to be discarded in <b>:dd: days</b> and <b>:hh: Hours</b>!<br /><br />Please consider updating to the latest version",
-			"expired": "Application is already expired!<br />Please update the application to latest version",
+			"notice": "English Heat Link - Hi.. please update in <b>:dd: days</b> and <b>:hh: Hours</b>!<br /><br />Please consider updating to the latest version",
+			"expired": "HeatLink English app already expired!<br />Please update the application to latest version",
 		    "noticeTemplate":"notice_template_en",
 		    "expiredTemplate":"expired_template_en"
 		},
 		"fr": {
-			"notice": "French Version (Heat Link) - Cette version de l'application va être supprimée dans <b>:dd: days</b> and <b>:hh: Hours</b>!<br /><br />S'il vous plaît envisager de mettre à jour vers la dernière version",
-			"expired": "L'application est déjà expirée!<br />Veuillez mettre à jour l'application vers la dernière version",
+			"notice": "French Heat Link - Hi.. please update in <b>:dd: days</b> and <b>:hh: Hours</b>!<br /><br />S'il vous plaît envisager de mettre à jour vers la dernière version",
+			"expired": "HeatLink french app already expired!<br />",
 		    "noticeTemplate":"notice_template_en",
 		    "expiredTemplate":"expired_template_en"
 		},
 		"es": {
-			"notice": "ESpanish Version (Heat Link) - Esta versión de la aplicación se descartará en <b>:dd: days</b> and <b>:hh: Hours</b>!<br /><br />Por favor considere actualizar a la última versión",
-			"expired": "¡La aplicación ya ha expirado!<br />Actualice la aplicación a la última versión",
+			"notice": "Spanish Heat Link - Hi.. please update in <b>:dd: days</b> and <b>:hh: Hours</b>!<br /><br />Por favor considere actualizar a la última versión",
+			"expired": "HeatLink Spanish app already expired!",
 		    "noticeTemplate":"notice_template_en",
 		    "expiredTemplate":"expired_template_en"
 		}
