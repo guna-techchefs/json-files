@@ -3,7 +3,7 @@
   "dateinfo" : {
     "start": "2018-11-12T21:03:19Z", 
     "expiry": "2018-12-31T21:03:19Z"
-  },  1234555
+  },  
   "messages" : {  
     "en-us": {
       "notice": "English Version (SALUS) - This version of the application is going to be discarded in <b>:dd: days</b> and <b>:hh: Hours</b>!<br /><br />Please consider updating to the latest version",
@@ -27,5 +27,5 @@
   "links": {
     "appStore": "itms-apps://itunes.apple.com/pl/app/salus-smart-home/id1120591363?mt=8",
     "playStore": "market://details?id=com.salusconnectna.salus.us"  
-  }  abcdefghi
+  }  
 }
