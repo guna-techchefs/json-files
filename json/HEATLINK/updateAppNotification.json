@@ -7,7 +7,7 @@
   }, 
   "messages" : {  
     "en-us": {
-      "notice": "English Heat Link - Hi.. please update in <b>:dd: days</b> and <b>:hh: Hours</b>!<br /><br />Please consider updating to the latest version",
+      "notice": "a English Heat Link - Hi.. please update in <b>:dd: days</b> and <b>:hh: Hours</b>!<br /><br />Please consider updating to the latest version",
       "expired": "HeatLink English app already expired!<br />Please update the application to latest version",
         "noticeTemplate":"notice_template_en",
         "expiredTemplate":"expired_template_en"
