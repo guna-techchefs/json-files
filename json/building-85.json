@@ -1,0 +1,126 @@
+{
+  "id": 85,
+  "name": "The High Street",
+  "latitude": 12.927463399999999,
+  "longitude": 77.59058569999999,
+  "address1": "4th Block JayaNagar",
+  "address2": "JayaNagar",
+  "city": "Bangalore",
+  "state": "Karnataka",
+  "country": "India",
+  "zipCode": "560004",
+  "createdBy": 6,
+  "createdAt": 1419036000,
+  "floors": [
+    {
+      "id": 67,
+      "name": "First Floor",
+      "createdBy": 6,
+      "createdAt": 1419037000,
+      "floorMap": [
+        {
+          "id": 45,
+          "name": "North Wing First Floor",
+          "imageURL": "http://google.com/map1.png",
+          "direction": "North",
+          "scale": 10.1,
+          "markerForegroundColor": "Red",
+          "markerBackgroundColor": "White",
+          "createdBy": 6,
+          "createdAt": 1419038000,
+          "markers": [
+            {
+              "id": 5,
+              "arucoImageURL": "http://google.com/arUcomarker1.png",
+              "xCoordinate": 5,
+              "yCoordinate": 5,
+              "adjacentMarkers": [
+                {
+                  "id": 4,
+                  "distance": 34.5,
+                  "bearing": 34
+                },
+                {
+                  "id": 9,
+                  "distance": 30.5,
+                  "bearing": 45
+                }
+              ],
+              "KeyLocation": {
+                "id": 4,
+                "name": "Sydney Conference Room"
+              }
+            },
+            {
+              "id": 6,
+              "arucoImageURL": "http://google.com/arUcomarker2.png",
+              "xCoordinate": 10,
+              "yCoordinate": 10,
+              "adjacentMarkers": [
+                {
+                  "id": 5,
+                  "distance": 14.5,
+                  "bearing": 34
+                },
+                {
+                  "id": 7,
+                  "distance": 10.5,
+                  "bearing": 45
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "arucoImageURL": "http://google.com/arUcomarker3.png",
+              "xCoordinate": 14,
+              "yCoordinate": 16,
+              "adjacentMarkers": [
+                {
+                  "id": 8,
+                  "distance": 34.5,
+                  "bearing": 34
+                },
+                {
+                  "id": 6,
+                  "distance": 10.5,
+                  "bearing": 15
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 46,
+          "name": "South Wing First Floor",
+          "imageURL": "http://google.com/map2.png",
+          "direction": "South",
+          "scale": 10.1,
+          "markerForegroundColor": "Red",
+          "markerBackgroundColor": "White",
+          "createdBy": 6,
+          "createdAt": 1419038000,
+          "markers": [
+            {
+              "id": 8,
+              "arucoImageURL": "http://google.com/arUcomarker4.png",
+              "xCoordinate": 55,
+              "yCoordinate": 55
+            },
+            {
+              "id": 9,
+              "arucoImageURL": "http://google.com/arUcomarker5.png",
+              "xCoordinate": 60,
+              "yCoordinate": 60
+            },
+            {
+              "id": 10,
+              "arucoImageURL": "http://google.com/arUcomarker6.png",
+              "xCoordinate": 66,
+              "yCoordinate": 68
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
