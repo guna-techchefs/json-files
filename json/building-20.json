@@ -1,36 +1,50 @@
 {
-  "id": 20,
-  "name": "Dell 6",
-  "latitude": 12.927463399999999,
-  "longitude": 77.59058569999999,
-  "address1": "Bagmane World Technology Center, KR Puram Marathahalli",
-  "address2": "N Ring Rd, Hobli, Doddanekundi, Mahadevapura",
-  "city": "Bangalore",
-  "state": "Karnataka",
-  "country": "India",
-  "zipCode": "560048",
-  "createdBy": 6,
-  "createdAt": 1419036000,
-  "floors": [
-    {
-      "id": 1,
-      "name": "8",
-      "createdBy": 6,
-      "createdAt": 1419037000,
-      "floorMap": [
-        {
-          "id": 45,
-          "name": "Eight Floor Full Map",
-          "imageURL": "https://raw.githubusercontent.com/guna-techchefs/json-files/master/json/index.jpeg",
-          "direction": "North",
-          "scale": 10.1,
-          "markerForegroundColor": "Red",
-          "markerBackgroundColor": "White",
-          "createdBy": 6,
-          "createdAt": 1419038000,
-          "markers": []
+	"id": 20,
+	"name": "Dell 6",
+	"latitude": 12.927463399999999,
+	"longitude": 77.59058569999999,
+	"address1": "Bagmane World Technology Center, KR Puram Marathahalli",
+	"address2": "N Ring Rd, Hobli, Doddanekundi, Mahadevapura",
+	"city": "Bangalore",
+	"state": "Karnataka",
+	"country": "India",
+	"zipCode": "560048",
+	"createdBy": 6,
+	"createdAt": 1419036000,
+	"floors": [
+		{
+			"id": 1,
+			"name": "8",
+			"createdBy": 6,
+			"createdAt": 1419037000,
+			"floorMap": [
+				{
+					"id": 45,
+					"name": "Eight Floor Full Map",
+					"imageURL": "https://raw.githubusercontent.com/guna-techchefs/json-files/master/json/index.jpeg",
+					"direction": "North",
+					"scale": 10.1,
+					"markerForegroundColor": "Red",
+					"markerBackgroundColor": "White",
+					"createdBy": 6,
+					"createdAt": 1419038000,
+					"markers": []
         }
       ]
+    },
+		{
+			"id": 2,
+			"name": "4",
+			"createdBy": 6,
+			"createdAt": 1419037000,
+			"floorMap": []
+    },
+		{
+			"id": 3,
+			"name": "terrace",
+			"createdBy": 6,
+			"createdAt": 1419037000,
+			"floorMap": []
     }
   ]
 }
