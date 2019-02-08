@@ -1,0 +1,15 @@
+{
+  "id": 21,
+  "name": "Dell 4",
+  "latitude": 12.927463399999999,
+  "longitude": 77.59058569999999,
+  "address1": "Embassy Golf Links Business Park",
+  "address2": "Challaghatta",
+  "city": "Bangalore",
+  "state": "Karnataka",
+  "country": "India",
+  "zipCode": "560071",
+  "createdBy": 6,
+  "createdAt": 1419036000,
+  "floors": []
+}
